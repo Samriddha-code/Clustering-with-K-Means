@@ -9,7 +9,7 @@ The dataset contains 200 customer records with the following features:
 - Annual Income (in thousand dollars)
 - Spending Score (1-100) representing customer spending behavior
 
-## What We Did
+## Steps taken
 
 - Loaded and explored the dataset to understand its structure.
 - Selected **Annual Income** and **Spending Score** as key features for clustering.
