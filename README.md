@@ -19,7 +19,6 @@ The dataset contains 200 customer records with the following features:
 - Evaluated clustering quality using the **Silhouette Score**.
 - Visualized the clusters with color-coded scatter plots along with their centroids.
 - Included an optional PCA-based 2D visualization when more features are used.
-- Saved the final dataset with cluster labels.
 
 ## Results
 
